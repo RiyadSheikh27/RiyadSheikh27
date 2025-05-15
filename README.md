@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm Md. Fazle Rabbi Riyad
+# Hello Developers! 👋 This is Md. Fazle Rabbi Riyad.
 
 ### 🚀 Django Backend Developer | TDD Practitioner | Problem Solver
 
@@ -54,27 +54,28 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riyadsheikh27&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyadsheikh27&theme=radical" />
+  <!-- Basic stats with error handling -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riyadsheikh27&show_icons=true&theme=radical&include_all_commits=true&count_private=true" onerror="this.onerror=null;this.src='https://placehold.co/600x200/0d1117/ffffff?text=Stats+Unavailable';this.alt='GitHub Stats Currently Unavailable'" alt="GitHub Stats"/>
+  
+  <!-- Streak stats with error handling -->
+  <img width="48%" src="https://streak-stats.demolab.com/?user=riyadsheikh27&theme=radical" onerror="this.onerror=null;this.src='https://placehold.co/600x200/0d1117/ffffff?text=Streak+Unavailable';this.alt='Streak Stats Currently Unavailable'" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadsheikh27&layout=compact&theme=radical&langs_count=6" />
+  <!-- Language stats with error handling -->
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadsheikh27&layout=compact&theme=radical&langs_count=6" onerror="this.onerror=null;this.src='https://placehold.co/600x200/0d1117/ffffff?text=Language+Stats+Unavailable';this.alt='Language Stats Currently Unavailable'" alt="Top Languages"/>
+  
+  <!-- Activity graph with error handling -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyadsheikh27&theme=react-dark&hide_border=true&area=true" onerror="this.onerror=null;this.src='https://placehold.co/600x200/0d1117/ffffff?text=Activity+Graph+Unavailable';this.alt='Activity Graph Currently Unavailable'" alt="GitHub Activity Graph"/>
 </p>
 
+<!-- Alternative stats as text -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyadsheikh27&theme=react-dark&hide_border=true&area=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=riyadsheikh27&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"/>
+  </a>
 </p>
 
----
-
-### 🏆 Achievements
-
-- [Your achievement 1]
-- [Your achievement 2]
-- [Your competition/contest results]
-
----
 
 ### 📫 Let's Connect
 
