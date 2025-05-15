@@ -69,13 +69,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyadsheikh27&theme=react-dark&hide_border=true&area=true" onerror="this.onerror=null;this.src='https://placehold.co/600x200/0d1117/ffffff?text=Activity+Graph+Unavailable';this.alt='Activity Graph Currently Unavailable'" alt="GitHub Activity Graph"/>
 </p>
 
-<!-- Alternative stats as text -->
+<!-- Alternative stats as text 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=riyadsheikh27&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"/>
   </a>
 </p>
-
+-->
 
 ### 📫 Let's Connect
 
