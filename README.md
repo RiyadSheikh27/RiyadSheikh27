@@ -54,9 +54,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=riyadsheikh27&theme=radical" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadsheikh27&layout=compact&theme=radical&langs_count=6" />
-</p>
 
 
 ### 📫 Let's Connect
