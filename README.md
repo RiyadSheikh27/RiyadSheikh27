@@ -71,7 +71,7 @@
 ### 📫 Let's Connect
 
 - Portfolio: [riyad-sheikh27.netlify.app](https://riyad-sheikh27.netlify.app)
-- Email: riyad.cse27@gmail.com
+- Email: (riyad.cse27@gmail.com)
 - LinkedIn: [riyadsheikh27](https://www.linkedin.com/in/riyadsheikh27/)
 - Codeforces: [Riyad27](https://codeforces.com/profile/Riyad27)
 
