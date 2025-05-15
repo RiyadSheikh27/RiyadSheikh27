@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm Md. Fazle Rabbi Riyad
+# Hello! 👋 I'm Md. Fazle Rabbi Riyad.
 
 ### 🚀 Django Backend Developer | Problem Solver | Open Source Enthusiast
 
