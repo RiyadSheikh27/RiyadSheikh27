@@ -58,7 +58,7 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadsheikh27&layout=compact&theme=radical&langs_count=6" onerror="this.onerror=null;this.src='https://placehold.co/600x200/0d1117/ffffff?text=Language+Stats+Unavailable';this.alt='Language Stats Currently Unavailable'" alt="Top Languages"/>
   
   <!-- Activity graph with error handling -->
-  <!-- Alternative stats as text 
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyadsheikh27&theme=react-dark&hide_border=true&area=true" onerror="this.onerror=null;this.src='https://placehold.co/600x200/0d1117/ffffff?text=Activity+Graph+Unavailable';this.alt='Activity Graph Currently Unavailable'" alt="GitHub Activity Graph"/>
 </p>
 
