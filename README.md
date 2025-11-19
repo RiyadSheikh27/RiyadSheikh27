@@ -1,4 +1,4 @@
-# Hello Developers! 👋 This is Md. Fazle Rabbi Riyad.
+# Hello Developers! 👋
 
 ### 🚀 Software Backend Engineer | Python Specialist | Problem Solver
 
