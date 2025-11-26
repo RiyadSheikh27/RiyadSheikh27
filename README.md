@@ -112,6 +112,56 @@ print(f"Hi! I'm {me.name}, and I build scalable backend systems! 🚀")
 <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
-### 💳 Payment Gateways
+### 💳 Payment Gateways & Tools
 <p>
-<img src="https://img.shields.io/badge/Stripe
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSLCommerz-00A859?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=riyadsheikh27&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+
+<!-- <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=riyadsheikh27&limit=5&theme=radical&hide_border=true&bg_color=0D1117&combine_all_yearly_contributions=true" alt="Contribution Stats"/> -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyadsheikh27&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph"/>
+
+
+---
+
+<div align="center">
+
+## 🌐 Let's Connect & Collaborate
+
+<p>
+  <a href="https://riyad-sheikh27.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:riyad.cse27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-riyad.cse27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="tel:+8801612168868">
+    <img src="https://img.shields.io/badge/Phone-+880--1612--168868-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 👀 Profile Views & Followers
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=riyadsheikh27&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/> 
+  <img src="https://img.shields.io/github/followers/riyadsheikh27?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/riyadsheikh27?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+</p>
+
