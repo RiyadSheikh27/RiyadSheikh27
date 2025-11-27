@@ -1,38 +1,45 @@
 <div align="center">
 
-# 👋 Hello, I'm Md. Fazle Rabbi Riyad
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Python+Backend+Engineer+%F0%9F%90%8D;Django+%7C+FastAPI+Specialist+%E2%9A%A1;Building+Scalable+APIs+%F0%9F%9A%80;Problem+Solver+%7C+1182+CF+Rating+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=800&size=40&duration=6000&pause=2000&color=58A6FF&background=00000000&center=true&vCenter=true&width=900&height=80&lines=Md.+Fazle+Rabbi+Riyad;Python+Backend+Engineer;DRF++|++FastAPI+Specialist" />
 
-### 🚀 Crafting Robust Backend Solutions | Turning Coffee into Code ☕
+<img src="https://capsule-render.vercel.app/api?type=soft&color=58A6FF&height=2&section=header"/>
 
-<p align="center">
-  <a href="https://riyad-sheikh27.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/riyadsheikh27/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://codeforces.com/profile/Riyad27" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="mailto:riyad.cse27@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.facebook.com/fazle.riyad" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/riyad_sheikh27/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+<!-- Exactly your style – dark, elegant, one perfect line -->
+<div style="white-space: nowrap; overflow-x: auto; padding: 12px 0;">
+  <a href="https://riyad-sheikh27.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-1E2A44?style=flat&logo=netlify&logoColor=00C7B7" height="46"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/riyadsheikh27/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="46"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:riyad.cse27@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-2D3748?style=flat&logo=gmail&logoColor=white" height="46"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/riyadsheikh27">
+    <img src="https://img.shields.io/badge/GitHub-24292E?style=flat&logo=github&logoColor=white" height="46"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Riyad27">
+    <img src="https://img.shields.io/badge/Codeforces-323B43?style=flat&logo=codeforces&logoColor=FF8C00" height="46"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/8801612168868">
+    <img src="https://img.shields.io/badge/WhatsApp-1E3A2D?style=flat&logo=whatsapp&logoColor=25D366" height="46"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://facebook.com/fazle.riyad">
+    <img src="https://img.shields.io/badge/Facebook-1A2947?style=flat&logo=facebook&logoColor=1877F2" height="46"/>
+  </a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=58A6FF&height=2&section=footer"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
----
-
+  
 ## 🎯 About Me
 
 ```python
@@ -70,92 +77,70 @@ print(f"Hi! I'm {me.name}, and I build scalable backend systems! 🚀")
 <div align="center">
 
 ## 🛠️ Tech Arsenal
-
-### 💻 Languages & Frameworks
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=gray"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & Caching
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
-### ⚙️ DevOps & Cloud
-<p>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white"/>
-<img src="https://img.shields.io/badge/cPanel-FC6C00?style=for-the-badge&logo=cPanel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-0C0C0C?style=for-the-badge&logo=render&logoColor=white"/>
-</p>
-
-### 🔐 Authentication & Messaging
-<p>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-</p>
-
-### 💳 Payment Gateways & Tools
-<p>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-<img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white"/>
-<img src="https://img.shields.io/badge/SSLCommerz-00A859?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-1E415E?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-C2A83E?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-1B2E22?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-3A3A3A?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-2B7A78?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-3A4F57?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-4B3B60?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-3A8B8C?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-2A4C59?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-3F5A70?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-3E6B4F?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-7C2A2A?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-2C4A62?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-1E5A7A?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-8A5A28?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2B4A70?style=flat&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-245C35?style=flat&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gunicorn-3E6A44?style=flat&logo=gunicorn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cPanel-7A4A20?style=flat&logo=cPanel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-2C2C2C?style=flat&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-2F2F2F?style=flat&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-2D2D2D?style=flat&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth_2.0-3A5BA0?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-2C2B2B?style=flat&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-2D2D2D?style=flat&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-3A3B80?style=flat&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PayPal-2C4F78?style=flat&logo=paypal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSLCommerz-2B6A4D?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-7A3A24?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-607D34?style=flat&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-5A2C2C?style=flat&logo=git&logoColor=white"/>
 </p>
 
 </div>
 
----
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 🚀 Engineering Metrics
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=riyadsheikh27&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💻 Technology Stack</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadsheikh27&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Technology Stack"/>
+    </td>
+    <td width="50%">
+      <h3>🏆 Contribution Analytics</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=riyadsheikh27&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=issues" alt="Engineering Statistics"/>
+    </td>
+  </tr>
+</table>
 
-<!-- <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=riyadsheikh27&limit=5&theme=radical&hide_border=true&bg_color=0D1117&combine_all_yearly_contributions=true" alt="Contribution Stats"/> -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyadsheikh27&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph"/>
-
+### 🔗 Development Workflow
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyadsheikh27&theme=vue-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area_color=0D47A1" alt="Development Activity Graph" width="90%"/>
 
 ---
+<sub>⚡ Real-time metrics • 🎯 Engineering focus</sub>
+
+</div>
+
 
 <div align="center">
-
-## 🌐 Let's Connect & Collaborate
-
-<p>
-  <a href="https://riyad-sheikh27.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:riyad.cse27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-riyad.cse27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="tel:+8801612168868">
-    <img src="https://img.shields.io/badge/Phone-+880--1612--168868-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ### 👀 Profile Views & Followers
 
