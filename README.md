@@ -48,7 +48,7 @@ class BackendEngineer:
         self.name = "Md. Fazle Rabbi Riyad"
         self.role = "Python Backend Developer @ Zensoft Lab"
         self.location = "Dhaka, Bangladesh 🇧🇩"
-        self.education = "B.Sc in CSE | Green University (CGPA: 3.25)"
+        self.education = "B.Sc in CSE | Green University (CGPA: 3.99)"
         self.languages = ["Python", "JavaScript"]
         self.currently_learning = ["Microservices", "System Design", "Advanced Kafka"]
         
