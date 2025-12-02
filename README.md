@@ -124,10 +124,10 @@ print(f"Hi! I'm {me.name}, and I build scalable backend systems! 🚀")
       <h3>💻 Technology Stack</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadsheikh27&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Technology Stack"/>
     </td>
-    <td width="50%">
+    <!-- <td width="50%">
       <h3>🏆 Contribution Analytics</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=riyadsheikh27&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=issues" alt="Engineering Statistics"/>
-    </td>
+    </td> -->
   </tr>
 </table>
 
