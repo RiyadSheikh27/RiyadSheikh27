@@ -114,23 +114,6 @@ print(f"Hi! I'm {me.name}, and I build scalable backend systems! 🚀")
 </div>
 
 
-<div align="center">
-
-## 🚀 Engineering Metrics
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>💻 Technology Stack</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadsheikh27&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Technology Stack"/>
-    </td>
-    <!-- <td width="50%">
-      <h3>🏆 Contribution Analytics</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=riyadsheikh27&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=issues" alt="Engineering Statistics"/>
-    </td> -->
-  </tr>
-</table>
-
 ### 🔗 Development Workflow
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyadsheikh27&theme=vue-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6FEB&area_color=0D47A1" alt="Development Activity Graph" width="90%"/>
 
