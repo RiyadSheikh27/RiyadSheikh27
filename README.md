@@ -64,9 +64,9 @@ class BackendEngineer:
     
     def get_highlights(self):
         return [
-            "🏆 535+ Problems Solved on Codeforces (Rating: 1182)",
-            "📚 2 Research Papers (1 Published, 1 Accepted)",
-            "💼 5+ Production Projects Deployed",
+            "🏆 700+ Problems Solved on Codeforces (Rating: 1182)",
+            "📚 3 Research Papers (2 Published, 1 Accepted)",
+            "💼 14+ Production Projects Deployed",
             "🎤 Sports Secretary @ GUB Computer Club"
         ]
 
