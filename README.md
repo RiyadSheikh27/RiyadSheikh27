@@ -59,12 +59,13 @@ class BackendEngineer:
             "devops": ["Docker", "AWS", "CI/CD", "Nginx", "Gunicorn"],
             "messaging": ["Kafka", "RabbitMQ", "WebSockets"],
             "payments": ["Stripe", "SSLCommerz", "PayPal"],
-            "auth": ["JWT", "OAuth 2.0", "OTP", "Social Auth"]
+            "auth": ["JWT", "OAuth 2.0", "OTP", "Social Auth"],
+            "others": ["Celery", "jQuery", "System Design"],
         }
     
     def get_highlights(self):
         return [
-            "🏆 700+ Problems Solved on Codeforces (Rating: 1182)",
+            "🏆 1000+ Problems Solved on Codeforces (Rating: 1182)",
             "📚 3 Research Papers (2 Published, 1 Accepted)",
             "💼 14+ Production Projects Deployed",
             "🎤 Sports Secretary @ GUB Computer Club"
