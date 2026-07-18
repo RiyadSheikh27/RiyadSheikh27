@@ -46,7 +46,7 @@
 class BackendEngineer:
     def __init__(self):
         self.name = "Md. Fazle Rabbi Riyad"
-        self.role = "Python Backend Developer @ Zensoft Lab"
+        self.role = "Software Engineer @ Betopia Group"
         self.location = "Dhaka, Bangladesh 🇧🇩"
         self.education = "B.Sc in CSE | Green University (CGPA: 3.99)"
         self.languages = ["Python", "JavaScript"]
